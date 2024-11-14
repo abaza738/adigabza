@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dae5c6fb36c03471",
+        "id": "725eea23aa6c7b07",
         "type": "tabs",
         "children": [
           {
-            "id": "edab197224a8d2c6",
+            "id": "0bcb4341382e213b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8b10863c347d203f",
@@ -173,10 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edab197224a8d2c6",
+  "active": "0bcb4341382e213b",
   "lastOpenFiles": [
-    "README.md",
+    "2024-11-13.md",
+    "Untitled.canvas",
     "Day 1.md",
+    "README.md",
     "Welcome.md"
   ]
 }
