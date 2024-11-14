@@ -10,3 +10,14 @@
 | Уи деж хьэщ1ап1э сынак1уэ хъуну?        | May I visit you?           |
 | Ди деж хьэщ1ап1э къак1уэ                | Come visit us              |
 | Дэ уи деж хьэщ1ап1э дыкъэк1уэну дыхуейт | We would like to visit you |
+## Lesson 5
+| Адыгэбзэ                 | English                     |
+| :----------------------- | --------------------------- |
+| Къыщ1ыхьэ                | Come in                     |
+| Сежьэжын хуейщ           | I need to go                |
+| Дэ док1уэж               | We are leaving              |
+| Сыт ущ1ы1ук1ыжыр?        | Why are you leaving?        |
+| Ет1анэгъэ къэдгъэзэжынущ | We will come back next year |
+| Умыгузавэ                | Don't worry                 |
+| Ар тыншщ                 | That's easy                 |
+| Ар хьэлъэщ               | That's hard                 |
