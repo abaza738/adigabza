@@ -21,3 +21,9 @@
 | Умыгузавэ                | Don't worry                 |
 | Ар тыншщ                 | That's easy                 |
 | Ар хьэлъэщ               | That's hard                 |
+| Абы егупсыс              | Thank about it              |
+| Дауик1                   | Of course                   |
+| Жьыуэ сыкъэтэджын хуейщ  | I need to wake up early     |
+| Уэ зыгуэр ухуей?         | Do you want something?      |
+| Сыт ухуей?               | What do you want?           |
+| Пщыгъупщэжа?             | Did you forget?             |
