@@ -11,10 +11,14 @@
             "id": "9dd47e1365a98d56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jonty-videos/lesson-01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lesson-01"
             }
           }
         ]
@@ -170,16 +174,18 @@
   },
   "active": "9dd47e1365a98d56",
   "lastOpenFiles": [
+    "jonty-videos/lesson-01.md",
+    "jonty-videos",
     "songs/Адыгагъэ - Адлер Коцба.md",
-    "lessons/lesson-007.md",
+    "optilingo/lesson-007.md",
     "songs",
-    "lessons/lesson-006.md",
-    "lessons/lesson-005.md",
-    "lessons/lesson-004.md",
-    "lessons/lesson-003.md",
-    "lessons/lesson-002.md",
-    "lessons/lesson-001.md",
-    "lessons",
+    "optilingo/lesson-006.md",
+    "optilingo/lesson-005.md",
+    "optilingo/lesson-004.md",
+    "optilingo/lesson-003.md",
+    "optilingo/lesson-002.md",
+    "optilingo/lesson-001.md",
+    "optilingo",
     "README.md",
     "2024-11-13.md",
     "Untitled.canvas",
