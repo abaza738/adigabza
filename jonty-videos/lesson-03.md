@@ -48,5 +48,9 @@ Are you available?
 I am _not_ available (free).
 
 ## Verb Conjugation
-|Statement|Question|
-|Адыгэбзэ|English|Адыгэбзэ|English|
+| Statement       |                  | Question               |                        | Negation                |                           |
+| :-------------- | :--------------- | :--------------------- | :--------------------- | ----------------------- | ------------------------- |
+| **Адыгэбзэ**    | **English**      | **Адыгэбзэ**           | **English**            | **Адыгэбзэ**            | **English**               |
+| Сэ **со**псалъэ | I speak          | Сэ **сы**псалъэ**рэ**? | Am I speaking?         | Сэ **сы**псалъэ**къым** | I am not speaking         |
+| Уэ **уо**псалъэ | You speak        | Уэ **у**псалъэ**рэ**?  | Are you speaking?      | Уэ **у**псалъэ**къым**  | You are not speaking      |
+| Ар **мэ**псалъэ | He/She/It speaks | Ар псалъэ**рэ**?       | Is he/she/it speaking? | Ар псалъэ**къым**       | He/She/It is not speaking |
