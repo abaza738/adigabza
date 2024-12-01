@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jonty-videos/lesson-02.md",
+                "file": "jonty-videos/lesson-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lesson-02"
+              "title": "lesson-03"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "93c3b5dcfbe0b375",
   "lastOpenFiles": [
-    "jonty-videos/lesson-01.md",
     "jonty-videos/lesson-02.md",
+    "jonty-videos/lesson-03.md",
+    "jonty-videos/lesson-01.md",
     "songs/Адыгагъэ - Адлер Коцба.md",
     "jonty-videos",
     "optilingo/lesson-007.md",
