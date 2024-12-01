@@ -17,6 +17,20 @@ How old are they?
 Си нэхъыжъыр илъэсий хъуащ, си нэхъыщ1ыр илъэсипл1 хъуащ.  
 My older is eight years old, my younger is four years old.
 
+Уэ зэкъуэщ зэщыпхъу (зэдэлъху) уи1э?  
+Do you have any brothers or sisters?
+
+Сэ къуэщит1 си1эщ.  
+I have two brothers.
+
+Сэ щыпхъу зыри си1экъым.  
+I have no sisters.
+
+Уи къуэщхэр нэхъыжъ хьэмрэ нэхъыщ1э?  
+Are your brothers older or younger?
+
+Си адэщх
+
 Дунейм и щытык1ыр уи дежк1э сыт хуэдэ?  
 What's the forecast like at your area/place?
 
