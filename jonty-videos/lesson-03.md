@@ -1,5 +1,5 @@
 ## Sentences
-Уэ щхьэуысэ уи1э?  
+Уэ щхьэгъусэ уи1э?  
 Do you have a spouse?
 
 Абы и ц1эр сыт?  
@@ -46,4 +46,7 @@ Are you available?
 
 Сэ сыхущыхьэркъым.  
 I am _not_ available (free).
-## Vocabulary
+
+## Verb Conjugation
+|Statement|Question|
+|Адыгэбзэ|English|Адыгэбзэ|English|
