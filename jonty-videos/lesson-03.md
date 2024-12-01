@@ -16,4 +16,10 @@ How old are they?
 
 Си нэхъыжъыр илъэсий хъуащ, си нэхъыщ1ыр илъэсипл1 хъуащ.  
 My older is eight years old, my younger is four years old.
+
+Дунейм и щытык1ыр уи дежк1э сыт хуэдэ?  
+What's the forecast like at your area/place?
+
+Уэ уи дежк1э уэс къос?  
+Is it snowing at your area/place?
 ## Vocabulary
