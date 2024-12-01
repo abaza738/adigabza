@@ -9,7 +9,7 @@
 | Мыр сысейщ                      | This is mine                 |
 | Мыр сытым щхьэк1э?              | What is this for?            |
 | Си 1уэху зомыхуэ                | Leave me alone               |
-| Уи дзэр плъэщ1а?                | Did you brush your teeth?    |
+| Уи дзэхэр лъэщ1а/бгъэкъэбза?    | Did you brush your teeth?    |
 | Уи щхьэцыр бжьа?                | Did you comb your hair?      |
 | Сэ зызгъэпск1ын хуейщ           | I need to take a bath        |
 | Сэ сык1уэнщи псы зыдэзгъэжэхынщ | I'm going to take a shower   |

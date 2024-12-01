@@ -6,9 +6,9 @@
 | Сыт ущ1ы1ук1ыжыр?        | Why are you leaving?        |
 | Ет1анэгъэ къэдгъэзэжынущ | We will come back next year |
 | Умыгузавэ                | Don't worry                 |
-| Ар тыншщ                 | That's easy                 |
-| Ар хьэлъэщ               | That's hard                 |
-| Абы егупсыс              | Thank about it              |
+| Ар тыншэщ                | That's easy                 |
+| Ар хьэлъэщ/гугъущ        | That's hard                 |
+| Гупсысэ                  | Thank about it              |
 | Дауик1                   | Of course                   |
 | Жьыуэ сыкъэтэджын хуейщ  | I need to wake up early     |
 | Уэ зыгуэр ухуей?         | Do you want something?      |

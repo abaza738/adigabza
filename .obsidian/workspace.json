@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7473d888b35c2341",
+        "id": "143f86ab54463e30",
         "type": "tabs",
         "children": [
           {
-            "id": "93c3b5dcfbe0b375",
+            "id": "717b71da38b7f72c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,21 +172,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93c3b5dcfbe0b375",
+  "active": "717b71da38b7f72c",
   "lastOpenFiles": [
-    "jonty-videos/lesson-02.md",
-    "jonty-videos/lesson-03.md",
-    "jonty-videos/lesson-01.md",
-    "songs/Адыгагъэ - Адлер Коцба.md",
-    "jonty-videos",
-    "optilingo/lesson-007.md",
-    "songs",
     "optilingo/lesson-006.md",
+    "optilingo/lesson-007.md",
     "optilingo/lesson-005.md",
+    "jonty-videos/lesson-03.md",
+    "jonty-videos/lesson-02.md",
     "optilingo/lesson-004.md",
     "optilingo/lesson-003.md",
     "optilingo/lesson-002.md",
     "optilingo/lesson-001.md",
+    "jonty-videos/lesson-01.md",
+    "songs/Адыгагъэ - Адлер Коцба.md",
+    "jonty-videos",
+    "songs",
     "optilingo",
     "README.md",
     "2024-11-13.md",
