@@ -1,4 +1,7 @@
 ## Sentences
+Уэ щхьэуысэ уи1э?  
+Do you have a spouse?
+
 Абы и ц1эр сыт?  
 What is his name?
 
@@ -29,11 +32,18 @@ I have no sisters.
 Уи къуэщхэр нэхъыжъ хьэмрэ нэхъыщ1э?  
 Are your brothers older or younger?
 
-Си адэщх
+Си адэщхум и ц1эр Мухьэмэд Щэрифт.  
+My grandfather's name _was_ Mohammad Sharif.
 
 Дунейм и щытык1ыр уи дежк1э сыт хуэдэ?  
 What's the forecast like at your area/place?
 
 Уэ уи дежк1э уэс къос?  
 Is it snowing at your area/place?
+
+Уэ ухущыхьрэ?  
+Are you available?
+
+Сэ сыхущыхьэркъым.  
+I am _not_ available (free).
 ## Vocabulary
