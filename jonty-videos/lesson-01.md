@@ -1,32 +1,32 @@
 ## Sentences
-Мыр щ1алэщ.  
+Мыр щIалэщ.  
 This is a boy.
 
-Щ1алэм и ц1эр Рамазанщ.  
+ЩIалэм и цIэр Рамазанщ.  
 The boy's name is Ramazan.
 
 Уэ ухъыджэбз?  
 Are you a girl?
 
-Хьэуэ, сэ сыхъыджэбзкъым. Сэ сыщ1алэщ.  
+Хьэуэ, сэ сыхъыджэбзкъым. Сэ сыщIалэщ.  
 No, I am not a girl. I am a boy.
 
-Сыт тхак1уэр ищ1э?  
+Сыт тхакIуэр ищIэ?  
 What does the writer do?
 
-Тхак1уэр матхэ.  
+ТхакIуэр матхэ.  
 The writer writes.
 ## Vocabulary
 
 | Адыгэбзэ   | English   |
 | :--------- | --------- |
-| Щ1алэ      | Boy       |
+| ЩIалэ      | Boy       |
 | Хъыджэбз   | Girl      |
-| Щ1эныгъэл1 | Scientist |
+| ЩIэныгъэлI | Scientist |
 | Мэгъуэ     | Magician  |
-| Тхак1уэ    | Writer    |
-| Къэфак1уэ  | Dancer    |
-| Мэлы1ыч    | Angel     |
+| ТхакIуэ    | Writer    |
+| КъэфакIуэ  | Dancer    |
+| МэлыIыч    | Angel     |
 | Аслъэн     | Lion      |
 | Къаплъэн   | Tiger     |
 | Мыщэ       | Bear      |
@@ -35,9 +35,9 @@ The writer writes.
 ### Helper Words
 | Адыгэбзэ | English        |
 | :------- | -------------- |
-| Нт1э     | Yes            |
+| НтIэ     | Yes            |
 | Хьэуэ    | No             |
-| Ик1и     | And            |
+| ИкIи     | And            |
 | Хьэмэ    | Or             |
 | Упсэу    | Thanks         |
 | Упсэуж   | You're welcome |

@@ -1,44 +1,44 @@
 ## Sentences
-Уэ щхьэгъусэ уи1э?  
+Уэ щхьэгъусэ уиIэ?  
 Do you have a spouse?
 
-Абы и ц1эр сыт?  
+Абы и цIэр сыт?  
 What is his name?
 
-Сабий уи1э?  
+Сабий уиIэ?  
 Do you have children?
 
-Т1ури щ1алэхэ?  
+ТIури щIалэхэ?  
 Are they both boys?
 
-Я ц1эхэр сыт?  
+Я цIэхэр сыт?  
 What are their names?
 
 Я ныбжхэр сыт?  
 How old are they?
 
-Си нэхъыжъыр илъэсий хъуащ, си нэхъыщ1ыр илъэсипл1 хъуащ.  
+Си нэхъыжъыр илъэсий хъуащ, си нэхъыщ1ыр илъэсиплI хъуащ.  
 My older is eight years old, my younger is four years old.
 
-Уэ зэкъуэщ зэщыпхъу (зэдэлъху) уи1э?  
+Уэ зэкъуэщ зэщыпхъу (зэдэлъху) уиIэ?  
 Do you have any brothers or sisters?
 
-Сэ къуэщит1 си1эщ.  
+Сэ къуэщитI сиIэщ.  
 I have two brothers.
 
-Сэ щыпхъу зыри си1экъым.  
+Сэ щыпхъу зыри сиIэкъым.  
 I have no sisters.
 
-Уи къуэщхэр нэхъыжъ хьэмрэ нэхъыщ1э?  
+Уи къуэщхэр нэхъыжъ хьэмрэ нэхъыщIэ?  
 Are your brothers older or younger?
 
-Си адэщхум и ц1эр Мухьэмэд Щэрифт.  
+Си адэщхум и цIэр Мухьэмэд Щэрифт.  
 My grandfather's name _was_ Mohammad Sharif.
 
-Дунейм и щытык1ыр уи дежк1э сыт хуэдэ?  
+Дунейм и щытыкIыр уи дежкIэ сыт хуэдэ?  
 What's the forecast like at your area/place?
 
-Уэ уи дежк1э уэс къос?  
+Уэ уи дежкIэ уэс къос?  
 Is it snowing at your area/place?
 
 Уэ ухущыхьрэ?  
