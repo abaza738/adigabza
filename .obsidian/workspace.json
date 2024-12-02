@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jonty-videos/lesson-03.md",
+                "file": "songs/Сэридай.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lesson-03"
+              "title": "Сэридай"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "717b71da38b7f72c",
   "lastOpenFiles": [
-    "jonty-videos/lesson-02.md",
     "jonty-videos/lesson-03.md",
+    "songs/Сэридай.md",
+    "jonty-videos/lesson-02.md",
     "jonty-videos/lesson-01.md",
     "optilingo/lesson-006.md",
     "optilingo/lesson-007.md",
