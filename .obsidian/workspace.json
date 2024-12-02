@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "songs/Серидай.md",
-                "mode": "preview",
+                "file": "songs/ФIылъагъуныгъэ - Бетал Иванов.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Серидай"
+              "title": "ФIылъагъуныгъэ - Бетал Иванов"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "717b71da38b7f72c",
   "lastOpenFiles": [
-    "jonty-videos/lesson-03.md",
     "songs/Серидай.md",
+    "songs/ФIылъагъуныгъэ - Бетал Иванов.md",
+    "jonty-videos/lesson-03.md",
     "jonty-videos/lesson-02.md",
     "jonty-videos/lesson-01.md",
     "optilingo/lesson-006.md",
