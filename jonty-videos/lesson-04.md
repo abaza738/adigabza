@@ -14,6 +14,12 @@ How's your mother and your sister?
 
 Ахэри фIыщ.  
 They are good.
+
+Амман уигу ирохьрэ?  
+Do you like Amman?
+
+Амман сигу ирохь.  
+I like Amman.
 ## Vocabulary
 | Адыгэбзэ | English |
 | :------- | :------ |
