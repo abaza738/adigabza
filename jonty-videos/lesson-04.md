@@ -20,6 +20,14 @@ Do you like Amman?
 
 Амман сигу ирохь.  
 I like Amman.
+
+Вымпухэр псалъэфрэ?  
+Are penguins able to speak? Or, can penguins speak?
+
+Хьэуэ, вымпухэр псалъэфрэкъым.  
+No, penguins don't speak.
+
+Уэ АдыгэбзэкIэ упсалъэ
 ## Vocabulary
 | Адыгэбзэ | English |
 | :------- | :------ |
