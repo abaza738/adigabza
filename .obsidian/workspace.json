@@ -11,10 +11,14 @@
             "id": "7b0c2dde93b2d211",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jonty-videos/lesson-04.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lesson-04"
             }
           }
         ]
@@ -154,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96767485e1b73318",
+  "active": "7b0c2dde93b2d211",
   "lastOpenFiles": [
+    "jonty-videos/lesson-03.md",
+    "jonty-videos/lesson-04.md",
+    "README.md",
     "songs/ФIылъагъуныгъэ - Бетал Иванов.md",
-    "songs/Серидай.md",
     "songs/Адыгагъэ - Адлер Коцба.md",
+    "songs/Серидай.md",
+    "jonty-videos/lesson-01.md",
+    "jonty-videos/lesson-02.md",
     "optilingo/lesson-007.md",
     "optilingo/lesson-006.md",
     "optilingo/lesson-005.md",
@@ -179,13 +189,9 @@
     "optilingo/lesson-003.md",
     "optilingo/lesson-002.md",
     "optilingo/lesson-001.md",
-    "jonty-videos/lesson-03.md",
-    "jonty-videos/lesson-02.md",
-    "jonty-videos/lesson-01.md",
     "jonty-videos",
     "songs",
     "optilingo",
-    "README.md",
     "2024-11-13.md",
     "Untitled.canvas",
     "Welcome.md"

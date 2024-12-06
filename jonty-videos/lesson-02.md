@@ -20,5 +20,5 @@ Give me tea, without sugar.
 | Сэ нэмыщI | Except me                                                        |
 | АфыкIа    | Anymore                                                          |
 | -жъ       | suffix to indicate that something is old(er)                     |
-| -щ1       | suffix to indicate that something is young(er)                   |
+| -щI       | suffix to indicate that something is young(er)                   |
 | -шэу      | suffix to indicate the exclusion of the word (without something) |

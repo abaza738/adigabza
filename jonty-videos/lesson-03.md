@@ -17,7 +17,7 @@ What are their names?
 Я ныбжхэр сыт?  
 How old are they?
 
-Си нэхъыжъыр илъэсий хъуащ, си нэхъыщ1ыр илъэсиплI хъуащ.  
+Си нэхъыжъыр илъэсий хъуащ, си нэхъыщIыр илъэсиплI хъуащ.  
 My older is eight years old, my younger is four years old.
 
 Уэ зэкъуэщ зэщыпхъу (зэдэлъху) уиIэ?  
