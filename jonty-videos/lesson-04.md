@@ -27,7 +27,20 @@ Are penguins able to speak? Or, can penguins speak?
 Хьэуэ, вымпухэр псалъэфрэкъым.  
 No, penguins don't speak.
 
-Уэ АдыгэбзэкIэ упсалъэ
+Уэ АдыгэбзэкIэ упсалъэфрэ?  
+Can you speak in Circassian?
+
+НтIэ, сэ тэкIу АдыгэбзэкIэ сопсалъэфI.  
+Yes, I can speak in Circassian a little bit.
+
+Иджыпсту, сэри уэри дызопсалъэ.  
+Right now, we are speaking with each other, you and me.
+
+ЩIалэр сытщхьэкIэ псалъэрэ?  
+Why is the boy speaking?
+
+Уэ АдыгэбзэкIэ фIы дыду упсалъэну ухуей?  
+Do
 ## Vocabulary
 | Адыгэбзэ | English |
 | :------- | :------ |
