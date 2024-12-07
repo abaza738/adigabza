@@ -39,11 +39,21 @@ Right now, we are speaking with each other, you and me.
 ЩIалэр сытщхьэкIэ псалъэрэ?  
 Why is the boy speaking?
 
-Уэ АдыгэбзэкIэ фIы дыду упсалъэну ухуей?  
-Do
+Уэ АдыгэбзэкIэ фIы дыдэу упсалъэну ухуей?  
+Do you want to speak Circassian very good?
+
+Сыт ухуей?  
+What do you want?
+
+Узынщагъэ сыхуейс.  
+I want health.
+
+Узынщагъэ ухуеймэ, уэ уIущс.
+If you say you want health, you are wise.
 ## Vocabulary
 | Адыгэбзэ | English |
 | :------- | :------ |
 | Шынэ     | Scared  |
 | Шынагъуэ | Scary   |
 | Вымпу    | Penguin |
+| IущI     | Wise    |
