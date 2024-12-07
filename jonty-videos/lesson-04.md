@@ -48,7 +48,7 @@ What do you want?
 Узынщагъэ сыхуейс.  
 I want health.
 
-Узынщагъэ ухуеймэ, уэ уIущс.
+Узынщагъэ ухуеймэ, уэ уIущс.  
 If you say you want health, you are wise.
 ## Vocabulary
 | Адыгэбзэ           | English         |
