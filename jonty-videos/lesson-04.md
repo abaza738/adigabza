@@ -51,9 +51,16 @@ I want health.
 Узынщагъэ ухуеймэ, уэ уIущс.
 If you say you want health, you are wise.
 ## Vocabulary
-| Адыгэбзэ | English |
-| :------- | :------ |
-| Шынэ     | Scared  |
-| Шынагъуэ | Scary   |
-| Вымпу    | Penguin |
-| IущI     | Wise    |
+| Адыгэбзэ           | English         |
+| :----------------- | :-------------- |
+| Шынэ               | Scared          |
+| Шынагъуэ           | Scary           |
+| Вымпу              | Penguin         |
+| Iущ                | Wise            |
+| ГурыщIэ            | Feeling         |
+| Сэ сынэщхъейщ      | I'm sad         |
+| Сэ согуфIэ         | I'm happy       |
+| Сэ сезэщащ         | I'm tired       |
+| Сэ согузавэ        | I'm worried     |
+| Сэ си жагъуэ хъуащ | I'm angry       |
+| Сэ соукIытэ        | I'm embarrassed |
