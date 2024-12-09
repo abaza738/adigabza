@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dictionary/Circassian - Arabic - English Dictionary.md",
+                "file": "jonty-videos/lesson-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circassian - Arabic - English Dictionary"
+              "title": "lesson-05"
             }
           }
         ]
@@ -171,12 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa7338400ee69ed1",
+  "active": "b130dbb2acfd8ebb",
   "lastOpenFiles": [
-    "dictionary/Circassian - Arabic - English Dictionary.md",
-    "jonty-videos/lesson-01.md",
-    "dictionary",
     "jonty-videos/lesson-04.md",
+    "jonty-videos/lesson-05.md",
+    "jonty-videos/lesson-01.md",
+    "dictionary/Circassian - Arabic - English Dictionary.md",
+    "dictionary",
     "optilingo/lesson-002.md",
     "optilingo/lesson-001.md",
     "jonty-videos/lesson-03.md",
