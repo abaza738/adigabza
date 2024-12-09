@@ -13,6 +13,18 @@
 
 اللجنة الإدارية للفرع النسائي للجمعية الخيرية الشركسية.
 
+## Introduction
+The Circassians have not had the opportunity to acquire a Circassian-Arabic dictionary since they were forcibly displaced from their country after the Russian-Caucasian wars.  
+Here is the Administrative Committee of the Women's Branch of the Circassian Benevolent Association, placing this dictionary in the hands of those wishing to learn the Circassian language, which was prepared specifically for students of Prince Hamzah bin Al Hussein Secondary School, hoping that it will contribute to advancing the process of learning the Circassian language.
+
+We hope that this dictionary will meet the needs of our dear students, the hope of tomorrow and its bright future.
+
+We thank Professor Sukhon Hassan for his distinguished efforts and the work team that helped him wherever they were to bring this work into existence.
+
+And Allah is the Grantor of success
+
+The Administrative Committee of the Women's Branch of the Circassian Benevolent Association.
+
 ---
 
 ## А
