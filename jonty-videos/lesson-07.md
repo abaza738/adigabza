@@ -33,3 +33,12 @@ Who doesn't want?
 Сэ сыхъужащ!  
 Literally means: I exist again, meaning, I am healed, or I recovered (i.e. from sickness).
 
+Уэс къэсащ. Иджыпсту щIымахуэщ.  
+It has snowed. Now is winter.
+## Vocabulary
+| Адыгэбзэ | English |
+| :------- | :------ |
+| ЩIымахуэ | Winter  |
+| ЩIы      | Land    |
+| ЩIыгу    | Ground  |
+| ЩIыналъэ | Earth   |
