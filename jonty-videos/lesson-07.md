@@ -29,3 +29,7 @@ God willing, one day, you will have a lot of money.
 
 Хэт зымыхуейр!  
 Who doesn't want?
+
+Сэ сыхъужащ!  
+Literally means: I exist again, meaning, I am healed, or I recovered (i.e. from sickness).
+
