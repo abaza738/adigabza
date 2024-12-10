@@ -1,5 +1,8 @@
 ## Sentences
 
+Уи адэр плъагъумэ сэлам сыхуейхыж.  
+Pass my Salam to your father.
+
 Ахэр зэпсалъэрэ АдыгэбзэкIэ?  
 Do they speak to each other in Circassian?
 
