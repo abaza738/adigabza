@@ -36,9 +36,15 @@ Literally means: I exist again, meaning, I am healed, or I recovered (i.e. from 
 Уэс къэсащ. Иджыпсту щIымахуэщ.  
 It has snowed. Now is winter.
 ## Vocabulary
-| Адыгэбзэ | English |
-| :------- | :------ |
-| ЩIымахуэ | Winter  |
-| ЩIы      | Land    |
-| ЩIыгу    | Ground  |
-| ЩIыналъэ | Earth   |
+| Адыгэбзэ  | English               |
+| :-------- | :-------------------- |
+| ЩIымахуэ  | Winter                |
+| ЩIы       | Land                  |
+| ЩIыгу     | Ground                |
+| ЩIыналъэ  | Earth                 |
+| Сытымдежи | All the time / Always |
+| Зэзымызэ  | Sometimes             |
+| Куэдрэ    | Often                 |
+| Зей       | Never                 |
+| Псалъэрей | Talkative             |
+| Щхэрей    | Eats always / a lot   |
