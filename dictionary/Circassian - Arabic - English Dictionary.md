@@ -168,3 +168,10 @@ The Administrative Committee of the Women's Branch of the Circassian Benevolent 
 | БзэщIэныгъэ          | Linguistics                     |                             علم اللغة |
 | Бзииху               | Linden tree                     |                          شجر الزيزفون |
 | БзуупцIэ             | Blackbird                       |                                 شحرور |
+| Бхыпхъэ              |                                 |                                       |
+| БзыщIын              |                                 |                                       |
+| Благъагъэ            |                                 |                                       |
+| Благъэ               |                                 |                                       |
+| Благъуэ              |                                 |                                       |
+| Бланагъэ             |                                 |                                       |
+| БлэгущIэ             |                                 |                                       |
