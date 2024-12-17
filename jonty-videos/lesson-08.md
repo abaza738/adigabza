@@ -23,9 +23,14 @@ When you (plural) speak, which language do you speak with each other?
 
 Дэ АдыгэбзэкIэ дызопсалъэ.  
 We speak with each other in Circassian.
+
+Iухум сыкIумэ, ИнджылизыбкIэ сопсалъэ.  
+When I go to work, I speak in English.
 ## Vocabulary
-| Адыгэбзэ | English |
-| :------- | :------ |
-| Жьапщэ   | Windy   |
-| ДжэдыкIэ | Egg     |
-|          |         |
+| Адыгэбзэ | English  |
+| :------- | :------- |
+| Жьапщэ   | Windy    |
+| ДжэдыкIэ | Egg      |
+| Тэмэму   | Properly |
+| ПсынщIэу | Quickly  |
+| Хуэмэу   | Slowly   |
