@@ -26,11 +26,24 @@ We speak with each other in Circassian.
 
 Iухум сыкIумэ, ИнджылизыбкIэ сопсалъэ.  
 When I go to work, I speak in English.
+
+Сэ ХьэрпыбзыкIэ сыщыпсалъэкIэ псынщIэу сопсалъэ.  
+When I speak in Arabic, I speak quickly.
+
+Къызэпсалъэ!  
+Speak to me!
+
+ЩIалэр еджапIэм щопсалъэ.  
+The boy speaks at the school.
+
+Дэнэ ущейджэрэ?  
+Where do you study?
 ## Vocabulary
-| Адыгэбзэ | English  |
-| :------- | :------- |
-| Жьапщэ   | Windy    |
-| ДжэдыкIэ | Egg      |
-| Тэмэму   | Properly |
-| ПсынщIэу | Quickly  |
-| Хуэмэу   | Slowly   |
+| Адыгэбзэ | English         |
+| :------- | :-------------- |
+| Жьапщэ   | Windy           |
+| ДжэдыкIэ | Egg             |
+| Тэмэму   | Properly        |
+| ПсынщIэу | Quickly         |
+| Хуэмэу   | Slowly          |
+| ЩхапIэ   | Restaurant/Cafe |
