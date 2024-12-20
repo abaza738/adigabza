@@ -38,6 +38,15 @@ I have 4 sisters.
 
 Нарт гузэвэгъуэ иIэщ.  
 Nart has a problem.
+
+Нарт псыIэфI иIэкъым.  
+Nart doesn't have juice.
+
+Хэт псыIэфI имыIурэ?  
+Who doesn't have juice?
+
+Нарт псыIэфI хуейщ.  
+Nart wants juice.
 ## Reading Comprehension
 
 Сабинэрэ Уэсмэнрэ Налшыч зыщагъэпсэху. Ахэр зэдэлъху-зэшыпхъущ икIи къыздэхъуащ. Сабинэ тхыдэтхщ. Уэсман детектив етх. Ахэр хьэщIэщым щIэтIысхьа къудейщ. Махуэр хуабэщ икIи дыгъэпсщ.
