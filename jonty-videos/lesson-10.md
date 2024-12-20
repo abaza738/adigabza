@@ -33,7 +33,10 @@ What are you doing there?
 Сыт къэпщыхуну ухуей?  
 What do you want to buy?
 
+Сэ щыпхъуиплI сиIэщ.  
+I have 4 sisters.
 
+Сабинэрэ Уэсмэнрэ 
 ## Vocabulary
 
 | Адыгэбзэ | English     |
