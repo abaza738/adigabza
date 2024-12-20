@@ -36,7 +36,18 @@ What do you want to buy?
 Сэ щыпхъуиплI сиIэщ.  
 I have 4 sisters.
 
-Сабинэрэ Уэсмэнрэ 
+Сабинэрэ Уэсмэнрэ Налшыч зыщагъэпсэху.  
+Sabina and Osman are on vacation at Nalchik.
+
+Ахэр зэдэлъху-зэшыпхъущ икIи къыздэхъуащ.  
+They are brother and sister and grew up together.
+
+Сабинэ тхыдэтхщ. Уэсман детектив етх.  
+Sabina is a historian. Osman writes detective novels.
+
+Ахэр хьэщIэщым щIэтIысхьа къудейщ.  
+
+Махуэр хуабэщ икIи дыгъэпсщ.
 ## Vocabulary
 
 | Адыгэбзэ | English     |
