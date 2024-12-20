@@ -36,6 +36,8 @@ What do you want to buy?
 Сэ щыпхъуиплI сиIэщ.  
 I have 4 sisters.
 
+Нарт гузэвэгъуэ иIэщ.  
+Nart has a problem.
 ## Reading Comprehension
 
 Сабинэрэ Уэсмэнрэ Налшыч зыщагъэпсэху. Ахэр зэдэлъху-зэшыпхъущ икIи къыздэхъуащ. Сабинэ тхыдэтхщ. Уэсман детектив етх. Ахэр хьэщIэщым щIэтIысхьа къудейщ. Махуэр хуабэщ икIи дыгъэпсщ.
@@ -43,7 +45,10 @@ I have 4 sisters.
 Sabina and Osman are on vacation at Nalchik. They are brother and sister and grew up together. Sabina is a historian. Osman writes detective novels. They checked into a hotel just now. The day is warm and sunny.
 ## Vocabulary
 
-| Адыгэбзэ | English     |
-| :------- | :---------- |
-| Хуэбагъэ | Temperature |
-| Лэжыгъэ  | Job         |
+| Адыгэбзэ   | English       |
+| :--------- | :------------ |
+| Хуэбагъэ   | Temperature   |
+| Лэжыгъэ    | Job           |
+| Вэгъу      | Injury        |
+| Гузавэ     | To be anxious |
+| Гузэвэгъуэ | Problem       |
