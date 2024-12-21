@@ -17,8 +17,5 @@ I think, the boy says "I want juice".
 
 Хаия жеIащ, щIалэм жеIэ "сэ псыIэфI сыхуейщ".  
 Haya said, the boy says "I want juice".
-## Vocabulary
 
-| Адыгэбзэ | English |
-| :------- | :------ |
-| Гугъуэ   | Idea    |
+*The rest of the sentences in this lesson follow the same pattern with the difference being what everyone thought the boy is saying.*
