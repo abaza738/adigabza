@@ -2,6 +2,11 @@
 
 The difference between **Псалъэн** and **ЖеIэн** is that ЖеIэн is a __transitive__ verb. A transitive verb has an object to which the verb action is performed.
 
+With a non-transitive verb like Псалъэн, we say:  
+ЩIалэ-**р** мэпсалъэ.
+
+With a transitive verb like ЖеIэн, we say:  
+ЩIалэ-**м** зыгуэр жеIэ.
 ## Sentences
 
 Сыт уэ уи гугъумкIэ щIалэм жиIэрэ?  
