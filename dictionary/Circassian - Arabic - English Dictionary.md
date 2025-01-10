@@ -192,6 +192,28 @@ The Administrative Committee of the Women's Branch of the Circassian Benevolent 
 | Быж                  | Belt lock                                    |                           محبس الحزام |
 | Быхъу                | Wide                                         |                                  عريض |
 ## В
-| Адыгэбзэ | English | عربي |
-| :------- | ------- | ---: |
-|          |         |      |
+| Адыгэбзэ        | English                  |                            عربي |
+| :-------------- | ------------------------ | ------------------------------: |
+| Вабдзэ          | Moldboard                |                     سكة المحراث |
+| Вагъэ           | Plowed land              |                      أرض محروثة |
+| Вагъуэ          | Star                     |                             نجم |
+| Вагъуэбэ        | Stars                    |                            نجوم |
+| Вагъуэзэшибл    | Ursa Major constellation |         مجموعة نجوم الدب الأكبر |
+| ВакIуэ          | Plower                   |                            حراث |
+| ВакIуэдэкIыгъуэ | Plowing season           |                    موسم الحراثة |
+| Вакъэ           | Shoe                     |                            حذاء |
+| Вэгъу           | Scab / Bread crust       | قشرة التئام الجرح / قشرة الرغيف |
+| Вэн-сэн         | Agriculture              |                           زراعة |
+| Вэныгъэ         | Plowing                  |                           حراثة |
+| Вуун            | Buzzing / Ringing        |                            طنين |
+| Выгу            | Ox drawn carriage        |              عربة تجرها الثيران |
+| Вынд            | Crow                     |                            غراب |
+## Г
+| Адыгэбзэ | English                |            عربي |
+| :------- | ---------------------- | --------------: |
+| Гаргу    | Collision/Impact sound |    صوت الارتطام |
+| Гиен     | Reproach               |            عتاب |
+| Гыбзэ    | Curse                  |            لعنة |
+| Гыз      | Moan                   |     أنّة / أنين |
+| Гызын    | Moaning                |            أنين |
+| Гын      |                        | سم دواء / بارود |
