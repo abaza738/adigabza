@@ -231,6 +231,6 @@ The Administrative Committee of the Women's Branch of the Circassian Benevolent 
 | Гуэн      | Grain store                               |                           مخزن حبوب |
 | Гуэныхь   | Haram / Forbidden                         |                        حرام / محرّم |
 | Гуэрэф    |                                           |                                 دمل |
-| Гуэшын    |                                           |                       توزيع / تقسيم |
-| Гуэщ      |                                           |                     مستودع بدون باب |
-| Губгъуэ   |                                           |                                قفار |
+| Гуэшын    | Distribution / division                   |                       توزيع / تقسيم |
+| Гуэщ      | Storehouse without a door                 |                     مستودع بدون باب |
+| Губгъуэ   | Desert                                    |                                قفار |
