@@ -224,12 +224,12 @@ The Administrative Committee of the Women's Branch of the Circassian Benevolent 
 | Гуанэ     | Dry branch / dead                         |                      غصن يابس / ميت |
 | Гуапэ     | Satisfaction / Pleasure / Joy             |                   رضا / سرور / بهجة |
 | Гуауэ     | Painful / Harmful                         |                         مؤلم / مؤذي |
-| Гуахъуэ   |                                           |                                شوكة |
-| ГуащIэ    |                                           |                   شديد / قوي / حامض |
+| Гуахъуэ   | Fork / Thorn                              |                                شوكة |
+| ГуащIэ    | Sour                                      |                   شديد / قوي / حامض |
 | Гуэгъэжын |                                           |                            القص منه |
-| Гуэдз     |                                           |                                 قمح |
-| Гуэн      |                                           |                           مخزن حبوب |
-| Гуэныхь   |                                           |                        حرام / محرّم |
+| Гуэдз     | Wheat                                     |                                 قمح |
+| Гуэн      | Grain store                               |                           مخزن حبوب |
+| Гуэныхь   | Haram / Forbidden                         |                        حرام / محرّم |
 | Гуэрэф    |                                           |                                 دمل |
 | Гуэшын    |                                           |                       توزيع / تقسيم |
 | Гуэщ      |                                           |                     مستودع بدون باب |
