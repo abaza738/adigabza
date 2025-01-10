@@ -35,14 +35,32 @@ I am not speaking.
 
 Умыпсалъэ.  
 Do not speak.
+
+Сэ къызокIуэхь сыфIэфIщ.  
+I like to go hiking.
+
+Сэ зыплъэхьакIуэ сыфIэфIщ.  
+I like traveling.
+
+Абы хъыджэбзым жреIэ...  
+He is telling the girl...
+
+
 ## Conjugation
 | Statement   |                | Question       |                     |
 | :---------- | :------------- | :------------- | :------------------ |
 | Сэ солъагъу | I see          | Сэ слъагъурэ?  | Do I see?           |
 | Уэ болъагъу | You see        | Уэ плъагъурэ?  | Do you see?         |
 | Абы елъагъу | He/She/It sees | Абы елъагъурэ? | Does he/she/it see? |
+
+| Statement        |     | Question           |     |
+| :--------------- | :-- | :----------------- | :-- |
+| Сэ уэ бжызоIэ    |     | Сэ уэ бжесIэрэ?    |     |
+| Уэ сэ къызжыбоIэ |     | Уэ сэ къызжепIэрэ? |     |
+|                  |     |                    |     |
 ## Vocabulary
 
-| Адыгэбзэ      | English |
-| :------------ | :------ |
-| Лъакъурэгъажэ | Bicycle |
+| Адыгэбзэ       | English                |
+| :------------- | :--------------------- |
+| Лъакъурэгъажэ  | Bicycle                |
+| Псалъэ фIейхэр | Bad words, swear words |
