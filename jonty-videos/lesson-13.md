@@ -20,6 +20,21 @@ I love my father and my mother.
 
 Уэ фIыуэ сыплъагъурэ?  
 Do you love me?
+
+Сэ джэдухэм фIыуэ солъагъу.  
+I love cats.
+
+Сэ блыщхьэхэм слагъу хъуркъым.  
+I hate Mondays.
+
+Сыт плъагъу мыхъур?  
+What do you hate?
+
+Сыпсалъэкъым.  
+I am not speaking.
+
+Умыпсалъэ.  
+Do not speak.
 ## Conjugation
 | Statement   |                | Question       |                     |
 | :---------- | :------------- | :------------- | :------------------ |
