@@ -10,7 +10,16 @@ I see the picture.
 I see Osman and the girl.
 
 Уэ нобэ вымпухэр плъагъурэ?  
+Did you see penguins today?
 
+Хьэуэ, вымпухэр слъэгъуакъым!  
+No, I did not see penguins!
+
+Сэ си анэмрэ си адэмрэ фIыуэ узолъагъу.  
+I love my father and my mother.
+
+Уэ фIыуэ сыплъагъурэ?  
+Do you love me?
 ## Conjugation
 | Statement   |                | Question       |                     |
 | :---------- | :------------- | :------------- | :------------------ |
