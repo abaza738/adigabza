@@ -45,7 +45,17 @@ I like traveling.
 Абы хъыджэбзым жреIэ...  
 He is telling the girl...
 
+Абы елъагъу**р** хъыджэбзщ.  
+The person he sees is a girl.
 
+Абы хъыджэбзым зыгуэр жыреIэ.  
+He says something to the girl.
+
+ЩIалэм АдыгэбзэкIэ зыгуэр жеIэ.  
+The boy says something in Circassian.
+
+ТIури АдыгэбзэкIэ зопсалъэ.  
+Both speak together in Circassian.
 ## Conjugation
 | Statement   |                | Question       |                     |
 | :---------- | :------------- | :------------- | :------------------ |
@@ -53,11 +63,11 @@ He is telling the girl...
 | Уэ болъагъу | You see        | Уэ плъагъурэ?  | Do you see?         |
 | Абы елъагъу | He/She/It sees | Абы елъагъурэ? | Does he/she/it see? |
 
-| Statement        |     | Question           |     |
-| :--------------- | :-- | :----------------- | :-- |
-| Сэ уэ бжызоIэ    |     | Сэ уэ бжесIэрэ?    |     |
-| Уэ сэ къызжыбоIэ |     | Уэ сэ къызжепIэрэ? |     |
-|                  |     |                    |     |
+| Statement        |                   | Question           |                     |
+| :--------------- | :---------------- | :----------------- | :------------------ |
+| Сэ уэ бжызоIэ    | I say to you      | Сэ уэ бжесIэрэ?    | Do I say to you?    |
+| Уэ сэ къызжыбоIэ | You say to me     | Уэ сэ къызжепIэрэ? | Do you say to me?   |
+| Абы жреIэ        | He/She/It says to | Абы жриIэрэ?       | Does he/she/it say? |
 ## Vocabulary
 
 | Адыгэбзэ       | English                |
