@@ -85,104 +85,113 @@ The Administrative Committee of the Women's Branch of the Circassian Benevolent 
 | Ащыкъ        | Lover                                                      |                                               عاشق |
 ## Б
 
-| Адыгэбзэ             | English                         |                                  عربي |
-| :------------------- | ------------------------------- | ------------------------------------: |
-| Бабыщ                | Duck                            |                                    بط |
-| Бадзэ                | Fly                             |                                  ذباب |
-| Бадзэпсэ             | Weak                            |                    ضئيل (ضعيف البنية) |
-| Бажэ                 | Fox                             |                                  ثعلب |
-| Балигъ               | Adult - sane                    |                           بالغ - عاقل |
-| Балий                | Cherry                          |                                   كرز |
-| Балыджэ              | Radish                          |                                   فجل |
-| Бамэ                 | Bad odeur                       |                           رائحة كريهة |
-| БампIэ               | Worry - sorrow                  |                             همّ - غمّ |
-| БампIэгъуэ           | Boring                          |                           مضجر - مملّ |
-| БанакIуэ             | Wrestler                        |                               مُصارِع |
-| Баналъэ              | Land with many thorns           |                       أرض كثيرة الشوك |
-| Банэ                 | Thorn                           |                                   شوك |
-| Баринэ               | Curly hair - dense foliage      | شعر أجعد - أشجاء كثيفة الأوراق (منمق) |
-| Бауэ                 | Breath                          |                                  تنفس |
-| Бахъэ                | Steam                           |                                  بخار |
-| Бацэ                 | Shaggy hair - shaved wool       |            أشعث الشعر - الصوف المجزوز |
-| Бащлъыкъ - щхьэхъумэ | Head cover                      |                            غطاء الرأس |
-| Бэ                   | Much                            |                                  كثير |
-| Бэв                  | Abundant                        |                           وفير - كثير |
-| Бэгъын               | Swelling                        |                         تورم - انتفاخ |
-| Бэгу                 | Rash                            |                       حبوب - طفح جلدي |
-| Бэдрэжан             | Aubergine                       |                               باذنجان |
-| Бэдж                 | Spider                          |                                عنكبوت |
-| Бэджыхъ              | Spider home (web)               |                          بيت العنكبوت |
-| Бэкхъ                | Barn                            |                                 حظيرة |
-| Бэлагъ               | Flat wooden spoon               |               ملعقة خشبية مسطحة للعجن |
-| Бэлацэ               | Disheveled hair                 |                            أشعث الشعر |
-| Бэнзэв               | Crowded                         |                                  مكتظ |
-| Бэракъ               | Flag                            |                                   علم |
-| Бэрэжьей             | Wednesday                       |                          يوم الأربعاء |
-| Бэрэчэт              | Welfare - blessing              |                            خير - بركة |
-| Бэуэн                | Breathing                       |                                التنفس |
-| Бэшэч                | Patient                         |                                  صبور |
-| Бэяун                | Calmness                        |                                  هدوء |
-| Бгъынэн              | Abadonment                      |                           هجْر (مصدر) |
-| Бгыпэ                | Mountain peak                   |                             قمة الجبل |
-| Бгырыпх              | Belt                            |                                  حزام |
-| Бгырыс               | Highlander                      |                     جبلي (ساكن الجبل) |
-| Бгъафэ               | Hug                             |                             صدر - حضن |
-| Бгъэдэлъын           | Laying near                     |                           ممدد بالقرب |
-| Бгъэдэсын            | Sitting with someone            |                                مجالسة |
-| Бгъэдыхьэн           | Approach                        |                                اقتراب |
-| БгъэхэIу             | Lapel pin                       |                     دبوس للصدر (بروش) |
-| БгъуэнщIагъ          | Cave                            |                                   كهف |
-| БгъуэщIэс            |                                 |                                  مضيف |
-| БгъузапIэ            | The tightest place in any thing |          المكان الأكثر ضيقا في أي شيء |
-| Бгъузэ               | Tight                           |                                  ضيّق |
-| Бгъунж               | Oblique / slanted / bent        |                                  مائل |
-| Бгъурылъын           | Standing next to something      |                          الوقوف بجانب |
-| Бгъурысын            | Sitting with someone            |                                مجالسة |
-| Бгъурытын            | Standing next to something      |                             يقف بجانب |
-| БдзамцIэ             | Lead                            |                                  رصاص |
-| Бдзэжей              | Fish                            |                                   سمك |
-| Бдзэкъунтх           | Fishing net                     |                              شبكة صيد |
-| Бел                  | Shovel                          |                          مجرفة (كريك) |
-| Бжэ                  | Door - entrance                 |                            باب - مدخل |
-| Бжэмышх              | Spoon                           |                                 ملعقة |
-| Бжэндэхъу            | Starling                        |                          طائر الزرزور |
-| БжэIупэ              | Yard                            |                       الساحة الخارجية |
-| Бжей                 | Kind of trees (Platanus)        |                  نوع من الأشجار (دلب) |
-| Бжыхь                | Wooden fence                    |                             سياج خشبي |
-| Бжьабэ               | Big horn                        |                               قرن ضخم |
-| Бжьакъуэ             | Horn                            |                                   قرن |
-| Бжьамий              | Metal pipes                     |                         أنابيب معدنية |
-| БжапцIэ              | Queen bee                       |                            ملكة النحل |
-| Бжахъуэ              | Beekeeper                       |                            مربي النحل |
-| Бжьэ                 | Bee                             |                                   نحل |
-| Бжьэматэ             | Beehive                         |                            خلية النحل |
-| Бжьэхуц              | Cotton                          |                                   قطن |
-| Бжьо                 | Ibex                            |                                   وعل |
-| Бжьы                 |                                 |                                   نير |
-| Бжьыгъэ              | Spot                            |                                  بقعة |
-| Бжьыдзэ              | Flea                            |                                 برغوث |
-| Бжьын                | Onion                           |                                   بصل |
-| Бзаджэ               | Evil                            |                                  شرير |
-| Бзэгу                | Tongue                          |                                  لسان |
-| Бзэгупэ              | Tip of the tongue               |                            طرف اللسان |
-| Бзэрэбзэн            | Bird tweeting                   |                          تغريد الطيور |
-| БзэщIэныгъэ          | Linguistics                     |                             علم اللغة |
-| Бзииху               | Linden tree                     |                          شجر الزيزفون |
-| БзуупцIэ             | Blackbird                       |                                 شحرور |
-| Бзыпхъэ              |                                 |                                       |
-| Бзыхьэхуэ            |                                 |                                       |
-| БзыщIын              |                                 |                                       |
-| Благъагъэ            |                                 |                                       |
-| Благъэ               |                                 |                                       |
-| Благъуэ              |                                 |                                       |
-| Бланагъэ             |                                 |                                       |
-| БлэгущIэ             |                                 |                                       |
-| БлэкIын              |                                 |                                       |
-| Блэлъэтын            |                                 |                                       |
-| Блын                 |                                 |                                       |
-| Блынджабэ            |                                 |                                       |
-| Блыщхьэ              |                                 |                                       |
-| Бо                   |                                 |                                       |
-| Борэн                |                                 |                                       |
-| БостеикIэ            |                                 |                                       |
-| Бос                  |                                 |                                       |
+| Адыгэбзэ             | English                                      |                                  عربي |
+| :------------------- | -------------------------------------------- | ------------------------------------: |
+| Бабыщ                | Duck                                         |                                    بط |
+| Бадзэ                | Fly                                          |                                  ذباب |
+| Бадзэпсэ             | Weak                                         |                    ضئيل (ضعيف البنية) |
+| Бажэ                 | Fox                                          |                                  ثعلب |
+| Балигъ               | Adult - sane                                 |                           بالغ - عاقل |
+| Балий                | Cherry                                       |                                   كرز |
+| Балыджэ              | Radish                                       |                                   فجل |
+| Бамэ                 | Bad odeur                                    |                           رائحة كريهة |
+| БампIэ               | Worry - sorrow                               |                             همّ - غمّ |
+| БампIэгъуэ           | Boring                                       |                           مضجر - مملّ |
+| БанакIуэ             | Wrestler                                     |                               مُصارِع |
+| Баналъэ              | Land with many thorns                        |                       أرض كثيرة الشوك |
+| Банэ                 | Thorn                                        |                                   شوك |
+| Баринэ               | Curly hair - dense foliage                   | شعر أجعد - أشجاء كثيفة الأوراق (منمق) |
+| Бауэ                 | Breath                                       |                                  تنفس |
+| Бахъэ                | Steam                                        |                                  بخار |
+| Бацэ                 | Shaggy hair - shaved wool                    |            أشعث الشعر - الصوف المجزوز |
+| Бащлъыкъ - щхьэхъумэ | Head cover                                   |                            غطاء الرأس |
+| Бэ                   | Much                                         |                                  كثير |
+| Бэв                  | Abundant                                     |                           وفير - كثير |
+| Бэгъын               | Swelling                                     |                         تورم - انتفاخ |
+| Бэгу                 | Rash                                         |                       حبوب - طفح جلدي |
+| Бэдрэжан             | Aubergine                                    |                               باذنجان |
+| Бэдж                 | Spider                                       |                                عنكبوت |
+| Бэджыхъ              | Spider home (web)                            |                          بيت العنكبوت |
+| Бэкхъ                | Barn                                         |                                 حظيرة |
+| Бэлагъ               | Flat wooden spoon                            |               ملعقة خشبية مسطحة للعجن |
+| Бэлацэ               | Disheveled hair                              |                            أشعث الشعر |
+| Бэнзэв               | Crowded                                      |                                  مكتظ |
+| Бэракъ               | Flag                                         |                                   علم |
+| Бэрэжьей             | Wednesday                                    |                          يوم الأربعاء |
+| Бэрэчэт              | Welfare - blessing                           |                            خير - بركة |
+| Бэуэн                | Breathing                                    |                                التنفس |
+| Бэшэч                | Patient                                      |                                  صبور |
+| Бэяун                | Calmness                                     |                                  هدوء |
+| Бгъынэн              | Abadonment                                   |                           هجْر (مصدر) |
+| Бгыпэ                | Mountain peak                                |                             قمة الجبل |
+| Бгырыпх              | Belt                                         |                                  حزام |
+| Бгырыс               | Highlander                                   |                     جبلي (ساكن الجبل) |
+| Бгъафэ               | Hug                                          |                             صدر - حضن |
+| Бгъэдэлъын           | Laying near                                  |                           ممدد بالقرب |
+| Бгъэдэсын            | Sitting with someone                         |                                مجالسة |
+| Бгъэдыхьэн           | Approach                                     |                                اقتراب |
+| БгъэхэIу             | Lapel pin                                    |                     دبوس للصدر (بروش) |
+| БгъуэнщIагъ          | Cave                                         |                                   كهف |
+| БгъуэщIэс            |                                              |                                  مضيف |
+| БгъузапIэ            | The tightest place in any thing              |          المكان الأكثر ضيقا في أي شيء |
+| Бгъузэ               | Tight                                        |                                  ضيّق |
+| Бгъунж               | Oblique / slanted / bent                     |                                  مائل |
+| Бгъурылъын           | Standing next to something                   |                          الوقوف بجانب |
+| Бгъурысын            | Sitting with someone                         |                                مجالسة |
+| Бгъурытын            | Standing next to something                   |                             يقف بجانب |
+| БдзамцIэ             | Lead                                         |                                  رصاص |
+| Бдзэжей              | Fish                                         |                                   سمك |
+| Бдзэкъунтх           | Fishing net                                  |                              شبكة صيد |
+| Бел                  | Shovel                                       |                          مجرفة (كريك) |
+| Бжэ                  | Door - entrance                              |                            باب - مدخل |
+| Бжэмышх              | Spoon                                        |                                 ملعقة |
+| Бжэндэхъу            | Starling                                     |                          طائر الزرزور |
+| БжэIупэ              | Yard                                         |                       الساحة الخارجية |
+| Бжей                 | Kind of trees (Platanus)                     |                  نوع من الأشجار (دلب) |
+| Бжыхь                | Wooden fence                                 |                             سياج خشبي |
+| Бжьабэ               | Big horn                                     |                               قرن ضخم |
+| Бжьакъуэ             | Horn                                         |                                   قرن |
+| Бжьамий              | Metal pipes                                  |                         أنابيب معدنية |
+| БжапцIэ              | Queen bee                                    |                            ملكة النحل |
+| Бжахъуэ              | Beekeeper                                    |                            مربي النحل |
+| Бжьэ                 | Bee                                          |                                   نحل |
+| Бжьэматэ             | Beehive                                      |                            خلية النحل |
+| Бжьэхуц              | Cotton                                       |                                   قطن |
+| Бжьо                 | Ibex                                         |                                   وعل |
+| Бжьы                 |                                              |                                   نير |
+| Бжьыгъэ              | Spot                                         |                                  بقعة |
+| Бжьыдзэ              | Flea                                         |                                 برغوث |
+| Бжьын                | Onion                                        |                                   بصل |
+| Бзаджэ               | Evil                                         |                                  شرير |
+| Бзэгу                | Tongue                                       |                                  لسان |
+| Бзэгупэ              | Tip of the tongue                            |                            طرف اللسان |
+| Бзэрэбзэн            | Bird tweeting                                |                          تغريد الطيور |
+| БзэщIэныгъэ          | Linguistics                                  |                             علم اللغة |
+| Бзииху               | Linden tree                                  |                          شجر الزيزفون |
+| БзуупцIэ             | Blackbird                                    |                                 شحرور |
+| Бзыпхъэ              | Sewing blueprint                             |                   مخطط تفصيلي للخياطة |
+| Бзыхьэхуэ            | Fabric scraps                                |                         قصاصات القماش |
+| БзыщIын              | Hiding the truth - denial                    |               إخفاء الحقيقة - الإنكار |
+| Благъагъэ            | Relationship - how you're related to someone |                           صلة القرابة |
+| Благъэ               | Relative                                     |                                  قريب |
+| Благъуэ              | Crocodile                                    |                                 تمساح |
+| Бланагъэ             | Courage                                      |                                 شجاعة |
+| БлэгущIэ             | Armpit                                       |                                   إبط |
+| БлэкIын              | Passage - Transit                            |                           مرور / عبور |
+| Блэлъэтын            | Flight past something                        |                   تجاوز الشيء طيراناً |
+| Блын                 | Wall                                         |                                  حائط |
+| Блынджабэ            | Wall                                         |                                  جدار |
+| Блыщхьэ              | Monday                                       |                           يوم الإثنين |
+| Бо                   | Barn                                         |                                 حظيرة |
+| Борэн                | Storm                                        |                                 عاصفة |
+| БостеикIэ            | Tail end of a dress (skirt)                  |                     ذيل الثوب (تنورة) |
+| БостеиплIэ           | The "heart" of a dress (shirt/t-shirt)       |                     صدر الثوب (بلوزة) |
+| Бостей               | Dress                                        |                           ثوب - فستان |
+| Бохъшэ               | Wallet                                       |                          محفظة النقود |
+| Быдэ                 | Hard - Solid                                 |                           قاسٍ - متين |
+| Быж                  | Belt lock                                    |                           محبس الحزام |
+| Быхъу                | Wide                                         |                                  عريض |
+## В
+| Адыгэбзэ | English | عربي |
+| :------- | ------- | ---: |
+|          |         |      |
