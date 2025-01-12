@@ -15,14 +15,23 @@ I too see the girl and the boy.
 Хэт пшынэ елъагъу?  
 Who sees the accordion?
 ## Vocabulary
-| Адыгэбзэ    | English                    |
-| :---------- | :------------------------- |
-| Хадэ        | Garden                     |
-| ХадэзэкIхэр | Vegetables                 |
-| Щхьэгъубжэ  | Window (door for the head) |
-| Шэнт        | Chair                      |
-| Щхьэнтэ     | Pillow                     |
-| Пшынэ       | Accordion                  |
-| Сыхьэт      | Clock                      |
-| Гъуджэ      | Mirror                     |
-| Нэгъулд     |                            |
+| Адыгэбзэ          | English                    |
+| :---------------- | :------------------------- |
+| Хадэ              | Garden                     |
+| ХадэзэкIхэр       | Vegetables                 |
+| Щхьэгъубжэ        | Window (door for the head) |
+| Шэнт              | Chair                      |
+| Щхьэнтэ           | Pillow                     |
+| Пшынэ             | Accordion                  |
+| Сыхьэт            | Clock                      |
+| Гъуджэ            | Mirror                     |
+| Нэгъуджэ          | Eyeglasses                 |
+| Тэхътэбан         | Couch (sofa)               |
+| Блын              | Wall                       |
+| Тхылъ             | Book                       |
+| Джэду             | Cat                        |
+| Фадъэ             | Ball                       |
+| Iэгубжэ           | Cup / Glass                |
+| ПхъуантIэ         | Bag / Box                  |
+| Щхьэмажьэ / Мажьэ | Comb / Hairbrush           |
+| Уздыгъэ           | Lamp / Light               |
