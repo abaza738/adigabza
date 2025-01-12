@@ -11,8 +11,18 @@ I see people.
 
 Сэри хъыджэбзэмрэ щIалэмрэ солъагъу.  
 I too see the girl and the boy.
+
+Хэт пшынэ елъагъу?  
+Who sees the accordion?
 ## Vocabulary
-| Адыгэбзэ    | English    |
-| :---------- | :--------- |
-| Хадэ        | Garden     |
-| ХадэзэкIхэр | Vegetables |
+| Адыгэбзэ    | English                    |
+| :---------- | :------------------------- |
+| Хадэ        | Garden                     |
+| ХадэзэкIхэр | Vegetables                 |
+| Щхьэгъубжэ  | Window (door for the head) |
+| Шэнт        | Chair                      |
+| Щхьэнтэ     | Pillow                     |
+| Пшынэ       | Accordion                  |
+| Сыхьэт      | Clock                      |
+| Гъуджэ      | Mirror                     |
+| Нэгъулд     |                            |
