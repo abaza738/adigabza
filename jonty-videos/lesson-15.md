@@ -12,4 +12,12 @@ Excuse me / I'm sorry.
 Уэ укъыздэIэпыкъуфыну?  
 Can you help me?
 
-С
+У   - къыз  - дэIэпыкъу - ф   - ыну
+You - to me - to help   - can - future suffix
+
+СыбдэIэпыкъуфынущ!  
+I can help you!
+
+СыбдэIэпыкъуфыну?  
+Can I help you?
+
