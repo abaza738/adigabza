@@ -21,3 +21,6 @@ I can help you!
 СыбдэIэпыкъуфыну?  
 Can I help you?
 
+СыбдэIэпыкъуфынумэ, си гуапэ хъунут!  
+If I can help you, it will be my pleasure!
+
