@@ -32,3 +32,19 @@ Something happened!
 
 Сэ сыгъуэщащ.  
 I got lost.
+
+## Reading
+ДэIпыкъуныгъэ лъыхъуэн.  
+Looking for help.
+
+Уэсман дэIэпыкъуныгъэ хуэныкъуэщ.  
+Osman needs help.
+
+Ар хъыджэбзым елъэIуащ.  
+He asks the girl for help.
+
+Хъыджэбзыр къеупщIащ, сыт къэхъуар?  
+She asked him, what happened?
+
+Уэсман абы жриIащ зэрыгъуэщар.  
+Osman tells her that he is lost.
