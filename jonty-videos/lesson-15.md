@@ -24,3 +24,11 @@ Can I help you?
 СыбдэIэпыкъуфынумэ, си гуапэ хъунут!  
 If I can help you, it will be my pleasure!
 
+Сыт къэхъуар?  
+What happened?
+
+Зыгуэр къэхъуащ!  
+Something happened!
+
+Сэ сыгъуэщащ.  
+I got lost.
