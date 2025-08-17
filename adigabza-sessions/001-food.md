@@ -1,3 +1,4 @@
+2025-08-17
 ## Sentences
 
 Нобэ сыт ущха?  
@@ -24,6 +25,9 @@ The food is burning.
 Нобэ щей сейфащи си бзэгур есащ.  
 Today when I drank tea my tongue got burnt.
 
+Щхыныр фащ.  
+Food got rotten.
+
 ## Vocabulary
 
 | Адыгэбзэ           | English                       |
@@ -42,6 +46,10 @@ Today when I drank tea my tongue got burnt.
 | нартыух п1энк1а    | popcorn                       |
 | пщтыр              | very hot                      |
 | хуабэ              | warm (also for weather)       |
+| фэн                | to rot                        |
+| санэ               | grapes                        |
+| былымыл            | to beef (with someone)        |
+| гъуэта             | mold                          |
 
 ## Tongue Twister
 
