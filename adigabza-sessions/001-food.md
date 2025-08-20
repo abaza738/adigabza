@@ -7,7 +7,7 @@ What did you eat today?
 Нобэ сыт уыпщафӏар?  
 What did you cook today?
 
-Сыт дышхэнур?
+Сыт дышхэнур?  
 What are we going to eat?
 
 Щ1акхъуэдэлъх схуэпшыфыну.  
@@ -27,6 +27,24 @@ Today when I drank tea my tongue got burnt.
 
 Щхыныр фащ.  
 Food got rotten.
+
+Can you give me (...)?  
+(...) къызэптыфыну?
+
+Prepare the table please.  
+Кхъыӏэ ӏэнэр гъэхьэзыр.
+
+Wash your hands before you eat.  
+Щхыныр умыщхыжу уи ӏэр тхьэщ.
+
+Do you want more?  
+Нэхъыбэ ухуей?
+
+I spilled some water.  
+Псы тӏэкӏу искутас.
+
+Put (...) in the fridge.  
+(...) щӏыӏалъэ гъэтӏылъ.
 
 ## Vocabulary
 
@@ -50,6 +68,13 @@ Food got rotten.
 | санэ               | grapes                        |
 | былымыл            | to beef (with someone)        |
 | гъуэта             | mold                          |
+| шугъэ              | salty                         |
+| гуащӏэ             | sour                          |
+| ӏэфӏ               | sweet                         |
+| сыр                | spicy                         |
+| пщӏэтэн            | to chop                       |
+| икӏутын<br>        | to pour (liquid)              |
+| гъэхъуэн           | to fill (liquid)              |
 
 ## Tongue Twister
 
