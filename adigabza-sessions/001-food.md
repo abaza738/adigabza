@@ -28,23 +28,23 @@ Today when I drank tea my tongue got burnt.
 Щхыныр фащ.  
 Food got rotten.
 
-Can you give me (...)?  
-(...) къызэптыфыну?
+(...) къызэптыфыну?  
+Can you give me (...)?
 
-Prepare the table please.  
-Кхъыӏэ ӏэнэр гъэхьэзыр.
+Кхъыӏэ ӏэнэр гъэхьэзыр.  
+Prepare the table please.
 
-Wash your hands before you eat.  
-Щхыныр умыщхыжу уи ӏэр тхьэщ.
+Щхыныр умыщхыжу уи ӏэр тхьэщ.  
+Wash your hands before you eat.
 
-Do you want more?  
-Нэхъыбэ ухуей?
+Нэхъыбэ ухуей?  
+Do you want more?
 
-I spilled some water.  
-Псы тӏэкӏу искутас.
+Псы тӏэкӏу искутас.  
+I spilled some water.
 
-Put (...) in the fridge.  
-(...) щӏыӏалъэ гъэтӏылъ.
+(...) щӏыӏалъэ гъэтӏылъ.  
+Put (...) in the fridge.
 
 ## Vocabulary
 
