@@ -45,4 +45,10 @@ I belong to the Abaza's.
 Дэнэ укӏуэрэ?  
 Where are you going?
 
-Зэ
+Хэт уи анэр/адэр?  
+Who is your mother/father?
+
+Цакуэ щытӏагъэ!  
+Wear a jacket/coat!
+
+Сыт уилажэр?  
