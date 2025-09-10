@@ -51,4 +51,6 @@ Who is your mother/father?
 Цакуэ щытӏагъэ!  
 Wear a jacket/coat!
 
-Сыт уилажэр?  
+Сыт уылажэрэ?  
+What do you work? (what's your occupation/job)
+
