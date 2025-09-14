@@ -75,6 +75,7 @@ Put (...) in the fridge.
 | пщӏэтэн            | to chop                       |
 | икӏутын<br>        | to pour (liquid)              |
 | гъэхъуэн           | to fill (liquid)              |
+| фӏэгъэжын          | to slaughter                  |
 
 ## Tongue Twister
 
