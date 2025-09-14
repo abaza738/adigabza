@@ -8,7 +8,11 @@ The guests are late.
 Абдалла, сыт щыгъуэ уи лъэтэныгъэ?  
 Abdallah, when is your flight?
 
-Сы
+Фокӏадэ мазэм и тӏощӏрэ бгъурэ, сыхьэт жэщныкъуэ.  
+September 29th, at midnight.
+
+Сыт щыгъуэ унэсыну?  
+When are you arriving?
 ## Vocabulary
 | Адыгэбзэ       | English                    |
 | :------------- | -------------------------- |
