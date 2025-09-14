@@ -2,6 +2,9 @@
 Щэнтыр къэубыд!  
 Reserve (catch/hold) the chair.
 
+Хьэщӏэхэр гувас.  
+The guests are late.
+
 
 ## Vocabulary
 | Адыгэбзэ       | English                    |
@@ -20,4 +23,10 @@ Reserve (catch/hold) the chair.
 | убыдын         | to reserve                 |
 | къэувыӏэпӏэ    | station/(bus) stop         |
 | къэувыӏэн      | to stop                    |
-|                |                            |
+| гъэгувэн       | delay                      |
+| зэхъуэжын      | to exchange                |
+| зэблэкӏыпӏэ    | intersection               |
+| left           | сэмэгу                     |
+| right          | ижь                        |
+| straight       | занщӏу                     |
+| back/backwards |                            |
