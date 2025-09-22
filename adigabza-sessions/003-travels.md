@@ -13,6 +13,14 @@ September 29th, at midnight.
 
 Сыт щыгъуэ унэсыну?  
 When are you arriving?
+
+Сэмэгу-м-кӏэ кӏуэ.  
+Go left.
+
+Ижь-ым-кӏэ кӏуэ.  
+Go right.
+
+
 ## Vocabulary
 | Адыгэбзэ       | English                    |
 | :------------- | -------------------------- |
@@ -39,3 +47,5 @@ When are you arriving?
 | занщӏу         | straight                   |
 | щӏыбагъымкӏэ   | back/backwards             |
 | лъакъуэрыгъажэ | bicycle                    |
+| теухуауэ       | about (the preposition)    |
+| здагъэувыр     | destination                |
