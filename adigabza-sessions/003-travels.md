@@ -25,8 +25,6 @@ Take the third left.
 
 Етӏуанэ ижьымкӏэ кӏуэ, етӏанэ занщӏу кӏуэ.  
 Take the second turn to the right, then continue straight.
-
-
 ## Vocabulary
 | Адыгэбзэ       | English                    |
 | :------------- | -------------------------- |

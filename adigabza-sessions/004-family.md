@@ -1,0 +1,5 @@
+## Sentences
+
+## Vocabulary
+| Адыгэбзэ | English |
+| :------- | ------- |
