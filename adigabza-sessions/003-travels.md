@@ -14,11 +14,17 @@ September 29th, at midnight.
 Сыт щыгъуэ унэсыну?  
 When are you arriving?
 
-Сэмэгу-м-кӏэ кӏуэ.  
+Сэмэгумкӏэ кӏуэ.  
 Go left.
 
 Ижь-ым-кӏэ кӏуэ.  
 Go right.
+
+Ещанэ сэмэгумкӏэ кӏуэ.  
+Take the third left.
+
+Етӏуанэ ижьымкӏэ кӏуэ, етӏанэ занщӏу кӏуэ.  
+Take the second turn to the right, then continue straight.
 
 
 ## Vocabulary
